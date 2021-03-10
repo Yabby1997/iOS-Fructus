@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1D05B83C25F8668F00AD2DCA /* SettingsLabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D05B83B25F8668F00AD2DCA /* SettingsLabelView.swift */; };
+		1D05B83F25F8760D00AD2DCA /* SettingsRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D05B83E25F8760D00AD2DCA /* SettingsRowView.swift */; };
 		1D5133BB25F5FDDA0057ABDA /* FructusApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D5133BA25F5FDDA0057ABDA /* FructusApp.swift */; };
 		1D5133BD25F5FDDA0057ABDA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D5133BC25F5FDDA0057ABDA /* ContentView.swift */; };
 		1D5133BF25F5FDDC0057ABDA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D5133BE25F5FDDC0057ABDA /* Assets.xcassets */; };
@@ -27,6 +28,7 @@
 
 /* Begin PBXFileReference section */
 		1D05B83B25F8668F00AD2DCA /* SettingsLabelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsLabelView.swift; sourceTree = "<group>"; };
+		1D05B83E25F8760D00AD2DCA /* SettingsRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsRowView.swift; sourceTree = "<group>"; };
 		1D5133B725F5FDDA0057ABDA /* Fructus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fructus.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D5133BA25F5FDDA0057ABDA /* FructusApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FructusApp.swift; sourceTree = "<group>"; };
 		1D5133BC25F5FDDA0057ABDA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -119,6 +121,7 @@
 				1D5133ED25F745760057ABDA /* SourceLinkView.swift */,
 				1D5133F825F750850057ABDA /* FruitNutrientsView.swift */,
 				1D05B83B25F8668F00AD2DCA /* SettingsLabelView.swift */,
+				1D05B83E25F8760D00AD2DCA /* SettingsRowView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -210,6 +213,7 @@
 			files = (
 				1D5133CF25F60AA10057ABDA /* FruitCardView.swift in Sources */,
 				1D5133EE25F745760057ABDA /* SourceLinkView.swift in Sources */,
+				1D05B83F25F8760D00AD2DCA /* SettingsRowView.swift in Sources */,
 				1D5133D325F6127A0057ABDA /* StartButtonView.swift in Sources */,
 				1D5133E525F725440057ABDA /* FruitRowView.swift in Sources */,
 				1D5133F925F750860057ABDA /* FruitNutrientsView.swift in Sources */,
